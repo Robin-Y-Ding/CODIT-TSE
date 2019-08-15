@@ -1,0 +1,25 @@
+Note: 
+
+The one line change analysis is based on the dataset from "R. M. Karampatsis and C. Sutton - 
+How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset", https://arxiv.org/pdf/1905.13334.pdf.
+The corresponding dataset in the paper should be the "small" version of one line bugs. 
+
+However, the statistics are not exactly the same with the original paper, then we made a comparison
+here:
+
+SStuBs4J: Top 100 java projects
+Ours: Top 92 java projects
+Explanation: Some projects took too much time to run gitcproc, so I filtered these out.
+
+SStuBs4J: 115605 buggy commits
+Ours: 80386 buggy commits
+Explanation: SStuBs4J uses "keywords in commit info", we uses gitcproc. SStuBs4J fouces on 100 projects,
+we just focuses on 92 of them.
+
+SStuB4J: 13000 single statment change "commits", out of 115605 buggy commits
+Ours: 110790 single statment change "Files", out of 518622 modified files
+Explanation: Different scope. SStuB4J focuses on "commit" level change, which means they only care
+about the commit with exactly "1 file changed". However, our work focuses on "Files" level, which means 
+we regard all modifed files in the commit history as a whole, and we care about "1 insertion(+), 1 deletion(-)"
+files. If we use the same scope in our data, we get 9323 one-line change commits out of 80386 buggy 
+commits, and this has the similar ratio with SStuB4J work.
