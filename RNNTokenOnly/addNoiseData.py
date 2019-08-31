@@ -26,19 +26,19 @@ def add_noise(word_ids):
 
 
 def construct_data(words_batch):
-	f = open('NoiseData.txt', 'w')
+	f = open('NoiseDataNew.txt', 'w')
 	pre = open('preNoiseData.txt','w')
 	post = open('postNoiseData.txt', 'w')
 	noise_word_ids_batch = [add_noise(words) for words in words_batch]
 
 
-	inputs = ['\t'.join(noise_words) for noise_words in noise_word_ids_batch]
-	outputs = ['\t'.join(words) for words in words_batch]
+	inputs = [' '.join(noise_words) for noise_words in noise_word_ids_batch]
+	outputs = [' '.join(words) for words in words_batch]
 	if len(inputs) != len(outputs): 
 		print("construct_data failed!")
 		return
 	for idx, inp in enumerate(inputs):
-		if inp.strip() != outputs[idx].strip():
+		if inp.strip() != outputs[idx].strip() and len(inp.strip().split()) > 2 and len(outputs[idx].strip().split()) > 2:
 			pre.write(inp.strip() + '\n')
 			post.write(outputs[idx].strip() + '\n')
 			f.write(inp.strip() + " ---> " + outputs[idx].strip() + '\n')
@@ -47,9 +47,13 @@ def construct_data(words_batch):
 	
 
 def sample(data, sample_prob):
-	num_sample = int(sample_prob * len(data))
-	sample_inds = np.random.permutation(len(data))[:num_sample]
-	words_sample = [data[i].strip().split('\t') for i in sample_inds]
+	#num_sample = int(sample_prob * len(data))
+	#sample_inds = np.random.permutation(len(data))[:num_sample]
+	words_sample = list()
+	for d in data:
+		sp = d.strip().split('\t')
+		words_sample.append(sp)
+	#words_sample = [data[i].split(' ') for i in sample_inds]
 	#print (words_sample)
 	construct_data(words_sample)
 	
@@ -64,7 +68,7 @@ def main():
 	srcFile = open(args.srcFile, 'r')
 	preList = srcFile.readlines()
 
-	sample(preList, 0.1)
+	sample(preList, 1)
 
 
 if __name__ == '__main__':
