@@ -1,0 +1,14 @@
+/home/robin/Documents/d4j-info/d4j/projects/chart/chart_1_buggy/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java 1797
+/home/robin/Documents/d4j-info/d4j/projects/chart/chart_11_buggy/source/org/jfree/chart/util/ShapeUtilities.java 275
+/home/robin/Documents/d4j-info/d4j/projects/closure/closure_65_buggy/src/com/google/javascript/jscomp/CodeGenerator.java 1015
+/home/robin/Documents/d4j-info/d4j/projects/closure/closure_73_buggy/src/com/google/javascript/jscomp/CodeGenerator.java 1045
+/home/robin/Documents/d4j-info/d4j/projects/closure/closure_104_buggy/src/com/google/javascript/rhino/jstype/UnionType.java 291
+/home/robin/Documents/d4j-info/d4j/projects/lang/lang_16_buggy/src/main/java/org/apache/commons/lang3/math/NumberUtils.java 458
+/home/robin/Documents/d4j-info/d4j/projects/lang/lang_24_buggy/src/main/java/org/apache/commons/lang3/math/NumberUtils.java 1413
+/home/robin/Documents/d4j-info/d4j/projects/lang/lang_59_buggy/src/java/org/apache/commons/lang/text/StrBuilder.java 884
+/home/robin/Documents/d4j-info/d4j/projects/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java 305
+/home/robin/Documents/d4j-info/d4j/projects/math/math_33_buggy/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java 338
+/home/robin/Documents/d4j-info/d4j/projects/math/math_70_buggy/src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java 72
+/home/robin/Documents/d4j-info/d4j/projects/math/math_75_buggy/src/main/java/org/apache/commons/math/stat/Frequency.java 303
+/home/robin/Documents/d4j-info/d4j/projects/math/math_82_buggy/src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 82
+/home/robin/Documents/d4j-info/d4j/projects/time/time_19_buggy/src/main/java/org/joda/time/DateTimeZone.java 900

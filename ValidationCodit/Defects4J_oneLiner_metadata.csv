@@ -1,0 +1,14 @@
+Chart,1,source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java,1797
+Chart,11,source/org/jfree/chart/util/ShapeUtilities.java,275
+Closure,65,src/com/google/javascript/jscomp/CodeGenerator.java,1015
+Closure,73,src/com/google/javascript/jscomp/CodeGenerator.java,1045
+Closure,104,src/com/google/javascript/rhino/jstype/UnionType.java,291
+Lang,16,src/main/java/org/apache/commons/lang3/math/NumberUtils.java,458
+Lang,24,src/main/java/org/apache/commons/lang3/math/NumberUtils.java,1413
+Lang,59,src/java/org/apache/commons/lang/text/StrBuilder.java,884
+Math,5,src/main/java/org/apache/commons/math3/complex/Complex.java,305
+Math,33,src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java,338
+Math,70,src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java,72
+Math,75,src/main/java/org/apache/commons/math/stat/Frequency.java,303
+Math,82,src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java,82
+Time,19,src/main/java/org/joda/time/DateTimeZone.java,900
