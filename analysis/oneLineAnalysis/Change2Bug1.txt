@@ -1,0 +1,938 @@
+---------------------------
+Project: jersey/jersey
+
+All Change modified files: 23962
+All Change one-line or two-line modified files: 4995
+All Change ratio of one-line and two-line modifcation: 20.845505383523914%
+
+Bug Fix modified files: 8513
+Bug Fix one-line modified files: 1202
+Bug Fix ratio of one-line modifcation: 14.119581816046047%
+---------------------------
+Project: facebook/presto
+
+All Change modified files: 84221
+All Change one-line or two-line modified files: 24558
+All Change ratio of one-line and two-line modifcation: 29.158998349580273%
+
+Bug Fix modified files: 8664
+Bug Fix one-line modified files: 1898
+Bug Fix ratio of one-line modifcation: 21.9067405355494%
+---------------------------
+Project: brettwooldridge/HikariCP
+
+All Change modified files: 4047
+All Change one-line or two-line modified files: 1101
+All Change ratio of one-line and two-line modifcation: 27.20533728687917%
+
+Bug Fix modified files: 873
+Bug Fix one-line modified files: 208
+Bug Fix ratio of one-line modifcation: 23.825887743413517%
+---------------------------
+Project: eclipse/vert.x
+
+All Change modified files: 16624
+All Change one-line or two-line modified files: 4184
+All Change ratio of one-line and two-line modifcation: 25.168431183830606%
+
+Bug Fix modified files: 3112
+Bug Fix one-line modified files: 450
+Bug Fix ratio of one-line modifcation: 14.460154241645244%
+---------------------------
+Project: apache/storm
+
+All Change modified files: 23050
+All Change one-line or two-line modified files: 4224
+All Change ratio of one-line and two-line modifcation: 18.32537960954447%
+
+Bug Fix modified files: 7300
+Bug Fix one-line modified files: 978
+Bug Fix ratio of one-line modifcation: 13.397260273972602%
+---------------------------
+Project: checkstyle/checkstyle
+
+All Change modified files: 40422
+All Change one-line or two-line modified files: 19539
+All Change ratio of one-line and two-line modifcation: 48.337538963930534%
+
+Bug Fix modified files: 25618
+Bug Fix one-line modified files: 7087
+Bug Fix ratio of one-line modifcation: 27.66414239987509%
+---------------------------
+Project: square/dagger
+
+All Change modified files: 1281
+All Change one-line or two-line modified files: 327
+All Change ratio of one-line and two-line modifcation: 25.526932084309134%
+
+Bug Fix modified files: 327
+Bug Fix one-line modified files: 43
+Bug Fix ratio of one-line modifcation: 13.149847094801224%
+---------------------------
+Project: alibaba/canal
+
+All Change modified files: 3428
+All Change one-line or two-line modified files: 676
+All Change ratio of one-line and two-line modifcation: 19.719953325554258%
+
+Bug Fix modified files: 1452
+Bug Fix one-line modified files: 219
+Bug Fix ratio of one-line modifcation: 15.082644628099173%
+---------------------------
+Project: roboguice/roboguice
+
+All Change modified files: 5830
+All Change one-line or two-line modified files: 622
+All Change ratio of one-line and two-line modifcation: 10.668953687821613%
+
+Bug Fix modified files: 508
+Bug Fix one-line modified files: 87
+Bug Fix ratio of one-line modifcation: 17.125984251968504%
+---------------------------
+Project: spring-projects/spring-mvc-showcase
+
+All Change modified files: 210
+All Change one-line or two-line modified files: 31
+All Change ratio of one-line and two-line modifcation: 14.761904761904763%
+
+Bug Fix modified files: 58
+Bug Fix one-line modified files: 6
+Bug Fix ratio of one-line modifcation: 10.344827586206897%
+---------------------------
+Project: dropwizard/dropwizard
+
+All Change modified files: 9420
+All Change one-line or two-line modified files: 3100
+All Change ratio of one-line and two-line modifcation: 32.90870488322717%
+
+Bug Fix modified files: 1908
+Bug Fix one-line modified files: 552
+Bug Fix ratio of one-line modifcation: 28.930817610062892%
+---------------------------
+Project: spring-projects/spring-petclinic
+
+All Change modified files: 1084
+All Change one-line or two-line modified files: 365
+All Change ratio of one-line and two-line modifcation: 33.67158671586716%
+
+Bug Fix modified files: 159
+Bug Fix one-line modified files: 42
+Bug Fix ratio of one-line modifcation: 26.41509433962264%
+---------------------------
+Project: cucumber/cucumber-jvm
+
+All Change modified files: 14362
+All Change one-line or two-line modified files: 4277
+All Change ratio of one-line and two-line modifcation: 29.779974933853225%
+
+Bug Fix modified files: 1761
+Bug Fix one-line modified files: 387
+Bug Fix ratio of one-line modifcation: 21.976149914821125%
+---------------------------
+Project: Bukkit/Bukkit
+
+All Change modified files: 5858
+All Change one-line or two-line modified files: 1605
+All Change ratio of one-line and two-line modifcation: 27.398429498122226%
+
+Bug Fix modified files: 808
+Bug Fix one-line modified files: 179
+Bug Fix ratio of one-line modifcation: 22.153465346534652%
+---------------------------
+Project: square/okio
+
+All Change modified files: 1031
+All Change one-line or two-line modified files: 176
+All Change ratio of one-line and two-line modifcation: 17.070805043646946%
+
+Bug Fix modified files: 143
+Bug Fix one-line modified files: 27
+Bug Fix ratio of one-line modifcation: 18.88111888111888%
+---------------------------
+Project: JakeWharton/ViewPagerIndicator
+
+All Change modified files: 395
+All Change one-line or two-line modified files: 162
+All Change ratio of one-line and two-line modifcation: 41.0126582278481%
+
+Bug Fix modified files: 48
+Bug Fix one-line modified files: 28
+Bug Fix ratio of one-line modifcation: 58.333333333333336%
+---------------------------
+Project: javaee-samples/javaee7-samples
+
+All Change modified files: 4552
+All Change one-line or two-line modified files: 727
+All Change ratio of one-line and two-line modifcation: 15.971001757469244%
+
+Bug Fix modified files: 338
+Bug Fix one-line modified files: 92
+Bug Fix ratio of one-line modifcation: 27.218934911242602%
+---------------------------
+Project: pardom/ActiveAndroid
+
+All Change modified files: 446
+All Change one-line or two-line modified files: 103
+All Change ratio of one-line and two-line modifcation: 23.094170403587444%
+
+Bug Fix modified files: 89
+Bug Fix one-line modified files: 29
+Bug Fix ratio of one-line modifcation: 32.58426966292135%
+---------------------------
+Project: google/closure-compiler
+
+All Change modified files: 47631
+All Change one-line or two-line modified files: 13216
+All Change ratio of one-line and two-line modifcation: 27.74663559446579%
+
+Bug Fix modified files: 12248
+Bug Fix one-line modified files: 2140
+Bug Fix ratio of one-line modifcation: 17.472240365774002%
+---------------------------
+Project: essentials/Essentials
+
+All Change modified files: 8903
+All Change one-line or two-line modified files: 2971
+All Change ratio of one-line and two-line modifcation: 33.3707738964394%
+
+Bug Fix modified files: 2051
+Bug Fix one-line modified files: 716
+Bug Fix ratio of one-line modifcation: 34.90980009751341%
+---------------------------
+Project: perwendel/spark
+
+All Change modified files: 1882
+All Change one-line or two-line modified files: 416
+All Change ratio of one-line and two-line modifcation: 22.104144527098832%
+
+Bug Fix modified files: 423
+Bug Fix one-line modified files: 86
+Bug Fix ratio of one-line modifcation: 20.33096926713948%
+---------------------------
+Project: shuzheng/zheng
+
+All Change modified files: 2050
+All Change one-line or two-line modified files: 479
+All Change ratio of one-line and two-line modifcation: 23.365853658536587%
+
+Bug Fix modified files: 13
+Bug Fix one-line modified files: 1
+Bug Fix ratio of one-line modifcation: 7.6923076923076925%
+---------------------------
+Project: mcxiaoke/android-volley
+
+All Change modified files: 330
+All Change one-line or two-line modified files: 40
+All Change ratio of one-line and two-line modifcation: 12.121212121212121%
+
+Bug Fix modified files: 110
+Bug Fix one-line modified files: 4
+Bug Fix ratio of one-line modifcation: 3.6363636363636362%
+---------------------------
+Project: iluwatar/java-design-patterns
+
+All Change modified files: 7994
+All Change one-line or two-line modified files: 2400
+All Change ratio of one-line and two-line modifcation: 30.02251688766575%
+
+Bug Fix modified files: 1377
+Bug Fix one-line modified files: 207
+Bug Fix ratio of one-line modifcation: 15.032679738562091%
+---------------------------
+Project: libgdx/libgdx
+
+All Change modified files: 44230
+All Change one-line or two-line modified files: 12460
+All Change ratio of one-line and two-line modifcation: 28.170924711734116%
+
+Bug Fix modified files: 14299
+Bug Fix one-line modified files: 2655
+Bug Fix ratio of one-line modifcation: 18.567732009231413%
+---------------------------
+Project: apache/flink
+
+All Change modified files: 129310
+All Change one-line or two-line modified files: 31584
+All Change ratio of one-line and two-line modifcation: 24.425025133400357%
+
+Bug Fix modified files: 18279
+Bug Fix one-line modified files: 3122
+Bug Fix ratio of one-line modifcation: 17.079708955632146%
+---------------------------
+Project: openmrs/openmrs-core
+
+All Change modified files: 45072
+All Change one-line or two-line modified files: 8871
+All Change ratio of one-line and two-line modifcation: 19.681842385516507%
+
+Bug Fix modified files: 6363
+Bug Fix one-line modified files: 1226
+Bug Fix ratio of one-line modifcation: 19.267641049819268%
+---------------------------
+Project: alibaba/jstorm
+
+All Change modified files: 8892
+All Change one-line or two-line modified files: 780
+All Change ratio of one-line and two-line modifcation: 8.771929824561404%
+
+Bug Fix modified files: 128
+Bug Fix one-line modified files: 17
+Bug Fix ratio of one-line modifcation: 13.28125%
+---------------------------
+Project: druid-io/druid
+
+All Change modified files: 64567
+All Change one-line or two-line modified files: 15098
+All Change ratio of one-line and two-line modifcation: 23.38346214010253%
+
+Bug Fix modified files: 36294
+Bug Fix one-line modified files: 4604
+Bug Fix ratio of one-line modifcation: 12.685292334821183%
+---------------------------
+Project: alibaba/dubbo
+
+All Change modified files: 21613
+All Change one-line or two-line modified files: 4531
+All Change ratio of one-line and two-line modifcation: 20.96423448850229%
+
+Bug Fix modified files: 3428
+Bug Fix one-line modified files: 698
+Bug Fix ratio of one-line modifcation: 20.361726954492415%
+---------------------------
+Project: Trinea/android-common
+
+All Change modified files: 463
+All Change one-line or two-line modified files: 125
+All Change ratio of one-line and two-line modifcation: 26.997840172786177%
+
+Bug Fix modified files: 92
+Bug Fix one-line modified files: 21
+Bug Fix ratio of one-line modifcation: 22.82608695652174%
+---------------------------
+Project: square/okhttp
+
+All Change modified files: 9250
+All Change one-line or two-line modified files: 2397
+All Change ratio of one-line and two-line modifcation: 25.913513513513514%
+
+Bug Fix modified files: 1288
+Bug Fix one-line modified files: 252
+Bug Fix ratio of one-line modifcation: 19.565217391304348%
+---------------------------
+Project: swagger-api/swagger-codegen
+
+All Change modified files: 27446
+All Change one-line or two-line modified files: 9552
+All Change ratio of one-line and two-line modifcation: 34.802885666399476%
+
+Bug Fix modified files: 20834
+Bug Fix one-line modified files: 4657
+Bug Fix ratio of one-line modifcation: 22.352884707689356%
+---------------------------
+Project: Activiti/Activiti
+
+All Change modified files: 64708
+All Change one-line or two-line modified files: 13918
+All Change ratio of one-line and two-line modifcation: 21.508932434938494%
+
+Bug Fix modified files: 15186
+Bug Fix one-line modified files: 1343
+Bug Fix ratio of one-line modifcation: 8.843671802976425%
+---------------------------
+Project: Atmosphere/atmosphere
+
+All Change modified files: 13284
+All Change one-line or two-line modified files: 5613
+All Change ratio of one-line and two-line modifcation: 42.25383920505872%
+
+Bug Fix modified files: 4905
+Bug Fix one-line modified files: 1019
+Bug Fix ratio of one-line modifcation: 20.77471967380224%
+---------------------------
+Project: jhy/jsoup
+
+All Change modified files: 2525
+All Change one-line or two-line modified files: 618
+All Change ratio of one-line and two-line modifcation: 24.475247524752476%
+
+Bug Fix modified files: 913
+Bug Fix one-line modified files: 118
+Bug Fix ratio of one-line modifcation: 12.924424972617743%
+---------------------------
+Project: wildfly/wildfly
+
+All Change modified files: 123803
+All Change one-line or two-line modified files: 28682
+All Change ratio of one-line and two-line modifcation: 23.167451515714482%
+
+Bug Fix modified files: 17290
+Bug Fix one-line modified files: 3332
+Bug Fix ratio of one-line modifcation: 19.271255060728745%
+---------------------------
+Project: MyCATApache/Mycat-Server
+
+All Change modified files: 6461
+All Change one-line or two-line modified files: 1087
+All Change ratio of one-line and two-line modifcation: 16.82402104937316%
+
+Bug Fix modified files: 617
+Bug Fix one-line modified files: 112
+Bug Fix ratio of one-line modifcation: 18.152350081037277%
+---------------------------
+Project: junit-team/junit
+
+All Change modified files: 6466
+All Change one-line or two-line modified files: 1715
+All Change ratio of one-line and two-line modifcation: 26.52335292298175%
+
+Bug Fix modified files: 1618
+Bug Fix one-line modified files: 300
+Bug Fix ratio of one-line modifcation: 18.54140914709518%
+---------------------------
+Project: NLPchina/ansj_seg
+
+All Change modified files: 2687
+All Change one-line or two-line modified files: 729
+All Change ratio of one-line and two-line modifcation: 27.13062895422404%
+
+Bug Fix modified files: 442
+Bug Fix one-line modified files: 118
+Bug Fix ratio of one-line modifcation: 26.69683257918552%
+---------------------------
+Project: google/auto
+
+All Change modified files: 2733
+All Change one-line or two-line modified files: 743
+All Change ratio of one-line and two-line modifcation: 27.186242224661544%
+
+Bug Fix modified files: 683
+Bug Fix one-line modified files: 99
+Bug Fix ratio of one-line modifcation: 14.494875549048317%
+---------------------------
+Project: google/guava
+
+All Change modified files: 34909
+All Change one-line or two-line modified files: 10640
+All Change ratio of one-line and two-line modifcation: 30.479246039703227%
+
+Bug Fix modified files: 9277
+Bug Fix one-line modified files: 2388
+Bug Fix ratio of one-line modifcation: 25.741080090546514%
+---------------------------
+Project: apache/hive
+
+All Change modified files: 90823
+All Change one-line or two-line modified files: 20121
+All Change ratio of one-line and two-line modifcation: 22.154079913678252%
+
+Bug Fix modified files: 16987
+Bug Fix one-line modified files: 6271
+Bug Fix ratio of one-line modifcation: 36.916465532466006%
+---------------------------
+Project: alibaba/druid
+
+All Change modified files: 36347
+All Change one-line or two-line modified files: 14729
+All Change ratio of one-line and two-line modifcation: 40.52328940490274%
+
+Bug Fix modified files: 12951
+Bug Fix one-line modified files: 9101
+Bug Fix ratio of one-line modifcation: 70.27256582503281%
+---------------------------
+Project: pxb1988/dex2jar
+
+All Change modified files: 3286
+All Change one-line or two-line modified files: 588
+All Change ratio of one-line and two-line modifcation: 17.89409616555082%
+
+Bug Fix modified files: 965
+Bug Fix one-line modified files: 158
+Bug Fix ratio of one-line modifcation: 16.373056994818654%
+---------------------------
+Project: JakeWharton/ActionBarSherlock
+
+All Change modified files: 2686
+All Change one-line or two-line modified files: 612
+All Change ratio of one-line and two-line modifcation: 22.78481012658228%
+
+Bug Fix modified files: 326
+Bug Fix one-line modified files: 65
+Bug Fix ratio of one-line modifcation: 19.938650306748468%
+---------------------------
+Project: joelittlejohn/jsonschema2pojo
+
+All Change modified files: 2713
+All Change one-line or two-line modified files: 1021
+All Change ratio of one-line and two-line modifcation: 37.6336159233321%
+
+Bug Fix modified files: 1503
+Bug Fix one-line modified files: 273
+Bug Fix ratio of one-line modifcation: 18.163672654690618%
+---------------------------
+Project: bauerca/drag-sort-listview
+
+All Change modified files: 183
+All Change one-line or two-line modified files: 24
+All Change ratio of one-line and two-line modifcation: 13.114754098360656%
+
+Bug Fix modified files: 66
+Bug Fix one-line modified files: 14
+Bug Fix ratio of one-line modifcation: 21.21212121212121%
+---------------------------
+Project: aws/aws-sdk-java
+
+All Change modified files: 481174
+All Change one-line or two-line modified files: 247329
+All Change ratio of one-line and two-line modifcation: 51.40115633845553%
+
+Bug Fix modified files: 20438
+Bug Fix one-line modified files: 3209
+Bug Fix ratio of one-line modifcation: 15.701144926118015%
+---------------------------
+Project: Alluxio/alluxio
+
+All Change modified files: 74706
+All Change one-line or two-line modified files: 25422
+All Change ratio of one-line and two-line modifcation: 34.02939522929885%
+
+Bug Fix modified files: 17286
+Bug Fix one-line modified files: 4037
+Bug Fix ratio of one-line modifcation: 23.354159435381234%
+---------------------------
+Project: spring-projects/spring-security-oauth
+
+All Change modified files: 5752
+All Change one-line or two-line modified files: 1861
+All Change ratio of one-line and two-line modifcation: 32.35396383866481%
+
+Bug Fix modified files: 1907
+Bug Fix one-line modified files: 809
+Bug Fix ratio of one-line modifcation: 42.422653382275826%
+---------------------------
+Project: xetorthio/jedis
+
+All Change modified files: 3784
+All Change one-line or two-line modified files: 897
+All Change ratio of one-line and two-line modifcation: 23.70507399577167%
+
+Bug Fix modified files: 585
+Bug Fix one-line modified files: 88
+Bug Fix ratio of one-line modifcation: 15.042735042735043%
+---------------------------
+Project: antlr/antlr4
+
+All Change modified files: 18071
+All Change one-line or two-line modified files: 5966
+All Change ratio of one-line and two-line modifcation: 33.01422168114659%
+
+Bug Fix modified files: 4566
+Bug Fix one-line modified files: 1886
+Bug Fix ratio of one-line modifcation: 41.30530004380201%
+---------------------------
+Project: square/otto
+
+All Change modified files: 208
+All Change one-line or two-line modified files: 36
+All Change ratio of one-line and two-line modifcation: 17.307692307692307%
+
+Bug Fix modified files: 57
+Bug Fix one-line modified files: 5
+Bug Fix ratio of one-line modifcation: 8.771929824561404%
+---------------------------
+Project: nhaarman/ListViewAnimations
+
+All Change modified files: 1186
+All Change one-line or two-line modified files: 280
+All Change ratio of one-line and two-line modifcation: 23.60876897133221%
+
+Bug Fix modified files: 308
+Bug Fix one-line modified files: 58
+Bug Fix ratio of one-line modifcation: 18.83116883116883%
+---------------------------
+Project: gephi/gephi
+
+All Change modified files: 23854
+All Change one-line or two-line modified files: 4475
+All Change ratio of one-line and two-line modifcation: 18.759956401442107%
+
+Bug Fix modified files: 6254
+Bug Fix one-line modified files: 1087
+Bug Fix ratio of one-line modifcation: 17.38087623920691%
+---------------------------
+Project: netty/netty
+
+All Change modified files: 43022
+All Change one-line or two-line modified files: 12878
+All Change ratio of one-line and two-line modifcation: 29.933522383896612%
+
+Bug Fix modified files: 12561
+Bug Fix one-line modified files: 1874
+Bug Fix ratio of one-line modifcation: 14.919194331661492%
+---------------------------
+Project: Graylog2/graylog2-server
+
+All Change modified files: 33486
+All Change one-line or two-line modified files: 7278
+All Change ratio of one-line and two-line modifcation: 21.73445619064684%
+
+Bug Fix modified files: 9078
+Bug Fix one-line modified files: 1150
+Bug Fix ratio of one-line modifcation: 12.667988543732099%
+---------------------------
+Project: apache/hadoop
+
+All Change modified files: 119155
+All Change one-line or two-line modified files: 21897
+All Change ratio of one-line and two-line modifcation: 18.376904032562628%
+
+Bug Fix modified files: 13130
+Bug Fix one-line modified files: 1900
+Bug Fix ratio of one-line modifcation: 14.47067783701447%
+---------------------------
+Project: deeplearning4j/deeplearning4j
+
+All Change modified files: 6139
+All Change one-line or two-line modified files: 305
+All Change ratio of one-line and two-line modifcation: 4.968235869034045%
+
+Bug Fix modified files: 1162
+Bug Fix one-line modified files: 159
+Bug Fix ratio of one-line modifcation: 13.68330464716007%
+---------------------------
+Project: yasserg/crawler4j
+
+All Change modified files: 1190
+All Change one-line or two-line modified files: 240
+All Change ratio of one-line and two-line modifcation: 20.168067226890756%
+
+Bug Fix modified files: 351
+Bug Fix one-line modified files: 75
+Bug Fix ratio of one-line modifcation: 21.367521367521366%
+---------------------------
+Project: code4craft/webmagic
+
+All Change modified files: 2400
+All Change one-line or two-line modified files: 839
+All Change ratio of one-line and two-line modifcation: 34.958333333333336%
+
+Bug Fix modified files: 268
+Bug Fix one-line modified files: 74
+Bug Fix ratio of one-line modifcation: 27.611940298507463%
+---------------------------
+Project: neo4j/neo4j
+
+All Change modified files: 360105
+All Change one-line or two-line modified files: 197055
+All Change ratio of one-line and two-line modifcation: 54.7215395509643%
+
+Bug Fix modified files: 34315
+Bug Fix one-line modified files: 6550
+Bug Fix ratio of one-line modifcation: 19.087862450823256%
+---------------------------
+Project: dropwizard/metrics
+
+All Change modified files: 4172
+All Change one-line or two-line modified files: 1211
+All Change ratio of one-line and two-line modifcation: 29.026845637583893%
+
+Bug Fix modified files: 588
+Bug Fix one-line modified files: 129
+Bug Fix ratio of one-line modifcation: 21.93877551020408%
+---------------------------
+Project: springside/springside4
+
+All Change modified files: 5079
+All Change one-line or two-line modified files: 1305
+All Change ratio of one-line and two-line modifcation: 25.694034258712346%
+
+Bug Fix modified files: 705
+Bug Fix one-line modified files: 94
+Bug Fix ratio of one-line modifcation: 13.333333333333334%
+---------------------------
+Project: AsyncHttpClient/async-http-client
+
+All Change modified files: 15515
+All Change one-line or two-line modified files: 4641
+All Change ratio of one-line and two-line modifcation: 29.912987431517887%
+
+Bug Fix modified files: 2957
+Bug Fix one-line modified files: 744
+Bug Fix ratio of one-line modifcation: 25.160635779506258%
+---------------------------
+Project: hazelcast/hazelcast
+
+All Change modified files: 193816
+All Change one-line or two-line modified files: 103122
+All Change ratio of one-line and two-line modifcation: 53.20613365253643%
+
+Bug Fix modified files: 29604
+Bug Fix one-line modified files: 6760
+Bug Fix ratio of one-line modifcation: 22.83475206053236%
+---------------------------
+Project: liaohuqiu/android-Ultra-Pull-To-Refresh
+
+All Change modified files: 345
+All Change one-line or two-line modified files: 123
+All Change ratio of one-line and two-line modifcation: 35.65217391304348%
+
+Bug Fix modified files: 114
+Bug Fix one-line modified files: 34
+Bug Fix ratio of one-line modifcation: 29.82456140350877%
+---------------------------
+Project: swagger-api/swagger-core
+
+All Change modified files: 11764
+All Change one-line or two-line modified files: 3391
+All Change ratio of one-line and two-line modifcation: 28.825229513770825%
+
+Bug Fix modified files: 2113
+Bug Fix one-line modified files: 309
+Bug Fix ratio of one-line modifcation: 14.623757690487459%
+---------------------------
+Project: EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+
+All Change modified files: 782
+All Change one-line or two-line modified files: 191
+All Change ratio of one-line and two-line modifcation: 24.424552429667518%
+
+Bug Fix modified files: 126
+Bug Fix one-line modified files: 63
+Bug Fix ratio of one-line modifcation: 50.0%
+---------------------------
+Project: hankcs/HanLP
+
+All Change modified files: 3880
+All Change one-line or two-line modified files: 992
+All Change ratio of one-line and two-line modifcation: 25.567010309278352%
+
+Bug Fix modified files: 148
+Bug Fix one-line modified files: 57
+Bug Fix ratio of one-line modifcation: 38.513513513513516%
+---------------------------
+Project: openhab/openhab
+
+All Change modified files: 39436
+All Change one-line or two-line modified files: 14515
+All Change ratio of one-line and two-line modifcation: 36.80647124454813%
+
+Bug Fix modified files: 6300
+Bug Fix one-line modified files: 1176
+Bug Fix ratio of one-line modifcation: 18.666666666666668%
+---------------------------
+Project: mybatis/mybatis-3
+
+All Change modified files: 12792
+All Change one-line or two-line modified files: 4798
+All Change ratio of one-line and two-line modifcation: 37.50781738586617%
+
+Bug Fix modified files: 2440
+Bug Fix one-line modified files: 359
+Bug Fix ratio of one-line modifcation: 14.71311475409836%
+---------------------------
+Project: scribejava/scribejava
+
+All Change modified files: 3693
+All Change one-line or two-line modified files: 1403
+All Change ratio of one-line and two-line modifcation: 37.990793392905495%
+
+Bug Fix modified files: 619
+Bug Fix one-line modified files: 233
+Bug Fix ratio of one-line modifcation: 37.64135702746365%
+---------------------------
+Project: apache/hbase
+
+All Change modified files: 91815
+All Change one-line or two-line modified files: 26657
+All Change ratio of one-line and two-line modifcation: 29.033382344932747%
+
+Bug Fix modified files: 12000
+Bug Fix one-line modified files: 2594
+Bug Fix ratio of one-line modifcation: 21.616666666666667%
+---------------------------
+Project: jfeinstein10/SlidingMenu
+
+All Change modified files: 918
+All Change one-line or two-line modified files: 127
+All Change ratio of one-line and two-line modifcation: 13.83442265795207%
+
+Bug Fix modified files: 772
+Bug Fix one-line modified files: 32
+Bug Fix ratio of one-line modifcation: 4.1450777202072535%
+---------------------------
+Project: knightliao/disconf
+
+All Change modified files: 5308
+All Change one-line or two-line modified files: 800
+All Change ratio of one-line and two-line modifcation: 15.071590052750565%
+
+Bug Fix modified files: 353
+Bug Fix one-line modified files: 72
+Bug Fix ratio of one-line modifcation: 20.39660056657224%
+---------------------------
+Project: thinkaurelius/titan
+
+All Change modified files: 19868
+All Change one-line or two-line modified files: 4978
+All Change ratio of one-line and two-line modifcation: 25.055365411717336%
+
+Bug Fix modified files: 4900
+Bug Fix one-line modified files: 724
+Bug Fix ratio of one-line modifcation: 14.775510204081632%
+---------------------------
+Project: spring-projects/spring-boot
+
+All Change modified files: 81004
+All Change one-line or two-line modified files: 33051
+All Change ratio of one-line and two-line modifcation: 40.80168880549109%
+
+Bug Fix modified files: 15946
+Bug Fix one-line modified files: 3085
+Bug Fix ratio of one-line modifcation: 19.346544587984447%
+---------------------------
+Project: google/guice
+
+All Change modified files: 9575
+All Change one-line or two-line modified files: 2269
+All Change ratio of one-line and two-line modifcation: 23.697127937336816%
+
+Bug Fix modified files: 3935
+Bug Fix one-line modified files: 445
+Bug Fix ratio of one-line modifcation: 11.30876747141042%
+---------------------------
+Project: NanoHttpd/nanohttpd
+
+All Change modified files: 957
+All Change one-line or two-line modified files: 211
+All Change ratio of one-line and two-line modifcation: 22.04806687565308%
+
+Bug Fix modified files: 245
+Bug Fix one-line modified files: 45
+Bug Fix ratio of one-line modifcation: 18.367346938775512%
+---------------------------
+Project: yusuke/twitter4j
+
+All Change modified files: 9614
+All Change one-line or two-line modified files: 3119
+All Change ratio of one-line and two-line modifcation: 32.44227168712295%
+
+Bug Fix modified files: 1379
+Bug Fix one-line modified files: 255
+Bug Fix ratio of one-line modifcation: 18.491660623640318%
+---------------------------
+Project: square/retrofit
+
+All Change modified files: 3505
+All Change one-line or two-line modified files: 935
+All Change ratio of one-line and two-line modifcation: 26.676176890156917%
+
+Bug Fix modified files: 257
+Bug Fix one-line modified files: 76
+Bug Fix ratio of one-line modifcation: 29.571984435797667%
+---------------------------
+Project: square/javapoet
+
+All Change modified files: 1162
+All Change one-line or two-line modified files: 203
+All Change ratio of one-line and two-line modifcation: 17.46987951807229%
+
+Bug Fix modified files: 248
+Bug Fix one-line modified files: 17
+Bug Fix ratio of one-line modifcation: 6.854838709677419%
+---------------------------
+Project: alibaba/fastjson
+
+All Change modified files: 11760
+All Change one-line or two-line modified files: 2751
+All Change ratio of one-line and two-line modifcation: 23.392857142857142%
+
+Bug Fix modified files: 3418
+Bug Fix one-line modified files: 1014
+Bug Fix ratio of one-line modifcation: 29.666471620830894%
+---------------------------
+Project: b3log/solo
+
+All Change modified files: 9309
+All Change one-line or two-line modified files: 3350
+All Change ratio of one-line and two-line modifcation: 35.98667955741755%
+
+Bug Fix modified files: 1964
+Bug Fix one-line modified files: 151
+Bug Fix ratio of one-line modifcation: 7.688391038696538%
+---------------------------
+Project: clojure/clojure
+
+All Change modified files: 3570
+All Change one-line or two-line modified files: 960
+All Change ratio of one-line and two-line modifcation: 26.89075630252101%
+
+Bug Fix modified files: 499
+Bug Fix one-line modified files: 85
+Bug Fix ratio of one-line modifcation: 17.034068136272545%
+---------------------------
+Project: brianfrankcooper/YCSB
+
+All Change modified files: 1437
+All Change one-line or two-line modified files: 202
+All Change ratio of one-line and two-line modifcation: 14.057063326374392%
+
+Bug Fix modified files: 672
+Bug Fix one-line modified files: 150
+Bug Fix ratio of one-line modifcation: 22.321428571428573%
+---------------------------
+Project: apache/camel
+
+All Change modified files: 197450
+All Change one-line or two-line modified files: 80267
+All Change ratio of one-line and two-line modifcation: 40.65181058495822%
+
+Bug Fix modified files: 37681
+Bug Fix one-line modified files: 9346
+Bug Fix ratio of one-line modifcation: 24.802951089408456%
+---------------------------
+Project: JakeWharton/NineOldAndroids
+
+All Change modified files: 197
+All Change one-line or two-line modified files: 56
+All Change ratio of one-line and two-line modifcation: 28.426395939086294%
+
+Bug Fix modified files: 15
+Bug Fix one-line modified files: 3
+Bug Fix ratio of one-line modifcation: 20.0%
+---------------------------
+Project: naver/pinpoint
+
+All Change modified files: 49337
+All Change one-line or two-line modified files: 12315
+All Change ratio of one-line and two-line modifcation: 24.960982629669417%
+
+Bug Fix modified files: 3546
+Bug Fix one-line modified files: 1129
+Bug Fix ratio of one-line modifcation: 31.838691483361533%
+---------------------------
+Project: chrisbanes/Android-PullToRefresh
+
+All Change modified files: 610
+All Change one-line or two-line modified files: 118
+All Change ratio of one-line and two-line modifcation: 19.34426229508197%
+
+Bug Fix modified files: 177
+Bug Fix one-line modified files: 17
+Bug Fix ratio of one-line modifcation: 9.6045197740113%
+
+
+-----------------------Total--------------------
+
+<<<<<<<<<<<<<<<<<<<<<Bug Fix>>>>>>>>>>>>>>>>>>>>
+Total modified files: 518622
+Total one line modified files: 110790
+Maximum ratio of one line modification: 70.27256582503281 %
+Median ratio of one line modification: 19.177751750321264 %
+Average ratio of one line modification: 21.362379536541063 %
+
+
+<<<<<<<<<<<<<<<<<<<<All Change>>>>>>>>>>>>>>>>>>
+Total modified files: 3016372
+Total one/two line modified files: 1111351
+Maximum ratio of one/two line modification: 54.7215395509643 %
+Median ratio of one/two line modification: 25.630522283995347 %
+Average ratio of one/two line modification: 36.84396354295823 %
